@@ -22,12 +22,13 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 ## DASHBOARD
 ![Coffee Shop dashboard Image](https://github.com/rupeshkr-in/Coffee-Shop-Sales_Dashboard/blob/main/coffee_shop_sales_dashboard.png)
 
-## KEY PERFORMANCE INDICATORS (KPI)
-* The key performance indicators (KPIs) are:
-* Total Sales Revenue: $698,812.33
-* Total Footfall: 149,116
-* Average Transaction Value: Approximately $4.69
-* Most Sold Product Category: Coffee
+## Overall Summary Metrics
+Total Sales: $698,812
+Total Footfall: 149,116
+Average Bill per Person: $4.69
+Average Orders per Person: 1.44
+These metrics provide an overview of the store’s performance and customer behavior.
+
 
 ## 🔍 Key Insights
 ### 📅 Sales Variation by Day & Hour  
