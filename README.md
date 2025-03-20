@@ -23,15 +23,11 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 ![Coffee Shop dashboard Image](https://github.com/rupeshkr-in/Coffee-Shop-Sales_Dashboard/blob/main/coffee_shop_sales_dashboard.png)
 
 ## Overall Summary Metrics
-- Total Sales: $698,812 
-
-Total Footfall: 149,116
-
-Average Bill per Person: $4.69
-
-Average Orders per Person: 1.44
-
-These metrics provide an overview of the store’s performance and customer behavior.
+- Total Sales: $698,812
+- Total Footfall: 149,116
+- Average Bill per Person: $4.69
+- Average Orders per Person: 1.44
+- These metrics provide an overview of the store’s performance and customer behavior.
 
 
 ## 🔍 Key Insights
