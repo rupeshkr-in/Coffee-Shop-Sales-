@@ -43,8 +43,8 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 ### 3. Categories % Distribution Based on Sales (Pie Chart)
 
 * Coffee (39%) is the leading category.
-* Branded (28%) items also contribute significantly.
-* Bakery (12%) and other categories like Tea, Chocolate, and Flavors have smaller shares.
+* Tea (28%) is also contribute significantly.
+* Bakery (12%) and other categories like Drinking Chocolate, Coffee Beans and Flavors have smaller shares.
 * 
 ### 4. Top 5 Product Types Based on Sales (Bar Chart)
 * Barista Espresso is the best-seller, generating $91,406 in sales.
@@ -56,7 +56,8 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 ### 5. Footfall & Sales Over Various Store Locations (Bar Chart)
 * Hell’s Kitchen: Highest sales of $236,511 with 50,735 footfalls.
 * Astoria: $232,244 in sales with 50,599 footfalls.
-* Lower Manhattan: $230,057 in sales with 47,782 footfalls. All locations have similar sales figures, indicating equal demand.
+* Lower Manhattan: $230,057 in sales with 47,782 footfalls.
+* All locations have similar sales figures, indicating equal demand.
 ### 6. Orders Over Weekdays (Bar Chart)
 * Friday (21,710 orders) and Thursday (21,310 orders) are the busiest days.
 * Saturday (20,510 orders) sees a drop in orders compared to weekdays.
