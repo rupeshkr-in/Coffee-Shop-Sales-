@@ -20,7 +20,7 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 * How do sales vary by product category and type?
 
 ## DASHBOARD
-![Coffee Shop dashboard Image](https://github.com/user-attachments/assets/566ba090-f10a-43ee-a54a-bdb98380f609)
+![Coffee Shop dashboard Image](https://github.com/rupeshkr-in/Coffee-Shop-Sales_Dashboard/blob/main/coffee_shop_sales_dashboard.png)
 
 ## KEY PERFORMANCE INDICATORS (KPI)
 * The key performance indicators (KPIs) are:
