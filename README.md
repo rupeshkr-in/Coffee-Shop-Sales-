@@ -61,7 +61,7 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 ### 6. Orders Over Weekdays (Bar Chart)
 * Friday (21,710 orders) and Thursday (21,310 orders) are the busiest days.
 * Saturday (20,510 orders) sees a drop in orders compared to weekdays.
-* Sunday has the lowest orders (20,196 orders), likely due to fewer working professionals.
+* Sunday has the lowest orders (21,096 orders), likely due to fewer working professionals.
 ## Key Takeaways
 * Peak coffee sales happen in the morning (8 AM - 10 AM).
 * Espresso and Chai Tea are top-selling beverages.
