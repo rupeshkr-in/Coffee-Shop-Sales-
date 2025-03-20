@@ -31,12 +31,12 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 
 
 ## 🔍 Key Insights
-## 1. Quantity Ordered by Hours (Line Chart)
+### 1. Quantity Ordered by Hours (Line Chart)
 * The sales volume starts increasing significantly from 7 AM.
 * Peak hours are between 8 AM - 10 AM, with the highest number of orders.
 * After 10 AM, sales start to decline and remain steady.
 * The lowest activity is seen post 6 PM.
-## 2. % Size Distribution Based on Orders (Pie Chart)
+### 2. % Size Distribution Based on Orders (Pie Chart)
 Large (30%), Regular (31%), and Small (9%) sizes make up most of the orders.
 30% of orders are "Not Defined", which may indicate missing data or bulk orders.
 4. Categories % Distribution Based on Sales (Pie Chart)
