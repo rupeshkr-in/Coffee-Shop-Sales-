@@ -37,12 +37,14 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 * After 10 AM, sales start to decline and remain steady.
 * The lowest activity is seen post 6 PM.
 ### 2. % Size Distribution Based on Orders (Pie Chart)
-Large (30%), Regular (31%), and Small (9%) sizes make up most of the orders.
-30% of orders are "Not Defined", which may indicate missing data or bulk orders.
-4. Categories % Distribution Based on Sales (Pie Chart)
-Coffee (39%) is the leading category.
-Branded (28%) items also contribute significantly.
-Bakery (12%) and other categories like Tea, Chocolate, and Flavors have smaller shares.
+* Large (30%), Regular (31%), and Small (9%) sizes make up most of the orders.
+* 30% of orders are "Not Defined", which may indicate missing data or bulk orders.
+* 
+###3. Categories % Distribution Based on Sales (Pie Chart)
+
+* Coffee (39%) is the leading category.
+* Branded (28%) items also contribute significantly.
+* Bakery (12%) and other categories like Tea, Chocolate, and Flavors have smaller shares.
 5. Top 5 Product Types Based on Sales (Bar Chart)
 Barista Espresso is the best-seller, generating $91,406 in sales.
 Other popular products include:
