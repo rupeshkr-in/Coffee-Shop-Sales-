@@ -59,7 +59,7 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 * Lower Manhattan: $230,057 in sales with 47,782 footfalls.
 * All locations have similar sales figures, indicating equal demand.
 ### 6. Orders Over Weekdays (Bar Chart)
-* Friday (21,710 orders) and Thursday (21,310 orders) are the busiest days.
+* Friday (21,710 orders) and Thursday (21,654 orders) are the busiest days.
 * Saturday (20,510 orders) sees a drop in orders compared to weekdays.
 * Sunday has the lowest orders (21,096 orders), likely due to fewer working professionals.
 ## Key Takeaways
